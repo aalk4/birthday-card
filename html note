@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HAPPY BIRTHDAY</title>  
+        <link rel="stylesheet" href="import.css">
+    </head>
+
+    <body>
+        <div class="card">
+            <img src="images.jpg?raw=true" alt="birthday" class="birthday">
+            <div class = "text">
+                <h1> HAPPY BIRTHDAY DAD!!</h1>
+                <p>I had plans to bake a cake and everything, but you know, it's exams season Funny thing is, my finals start on your birthday and they end on mine. A sweet coincidence if I say so.
+                    <br><br>
+                    Anyways, I hope you have a lovely day, and may all your hopes, dreams and wishes come true.I love you to the moon and back &lt;3 </p>
+                <p class="muted"> - Lots of Love, Abrar - </p>
+            </div>
+        </div>
+    </body>
+</html>
